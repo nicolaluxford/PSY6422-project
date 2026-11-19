@@ -1,0 +1,15 @@
+---
+title: "Nicola PSY6422 project"
+author: "Nicola Luxford"
+format: html
+editor: visual
+---
+
+# Overview
+
+# adding some code
+
+```{r}
+data(mtcars)
+plot(mtcars$hp, mtcars$mpg)
+```
