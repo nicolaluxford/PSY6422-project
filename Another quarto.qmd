@@ -1,0 +1,13 @@
+---
+title: "Nicola another quarto"
+format: html
+editor: visual
+---
+
+# Another Quarto 
+
+this is another quarto document
+
+```{r}
+
+```
