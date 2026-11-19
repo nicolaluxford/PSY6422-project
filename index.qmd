@@ -16,4 +16,4 @@ plot(mtcars$hp, mtcars$mpg)
 
 # Link to another quarto file
 
-click [here](Another_quarto.qmd) to see a second page
+click [here](Another_quarto.html) to see a second page
